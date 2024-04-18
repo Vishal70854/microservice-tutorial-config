@@ -1,3 +1,7 @@
+Spring:
+  application:
+    name: Config-Default
+
 # put the confuration which is repeating/common in all microservice
 # eureka configuration for discovery client
 eureka:
